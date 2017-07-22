@@ -1,0 +1,10 @@
+body{
+	background:url("1d.png") no-repeat;
+	color:red;
+
+}
+#list1 li a
+{
+color:red;
+font-size:20px;
+}
